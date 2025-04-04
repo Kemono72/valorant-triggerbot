@@ -19,7 +19,7 @@ This project explored the use of real-time screen analysis and input simulation 
 
 ## 📄 Files
 
-- `pixelbot_redacted.py`: Demonstrates structure and techniques used (with critical sections removed).
+- [`pixelbot_redacted.py`](./pixelbot_redacted.py): Demonstrates structure and techniques used (with critical sections removed).
 - [`debug_region.png`](./debug_region.png): Example screenshot showing the region analyzed for color detection.
 - [`Vulnerability_Report_Redacted.pdf`](./Valorant_Triggerbot_Report_Redacted.pdf): Redacted version of the full ethical disclosure submitted to Riot Games.
 
